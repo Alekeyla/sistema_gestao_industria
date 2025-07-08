@@ -1,2 +1,2 @@
-# sistema_gestao_industria
-Sistema de Gestão para produção na Industria
+![banner](https://github.com/Alekeyla/sistema_gestao_industria/blob/main/industria.jpg)
+#Sistema de Gestao de Industria 
